@@ -1,0 +1,23 @@
+{
+  "sequence": [
+    {
+      "node": "node1"
+    },
+    {
+      "parallel": [
+        {
+          "node": "node2-1"
+        },
+        {
+          "node": "node2-2"
+        },
+        {
+          "node": "node2-3"
+        }
+      ]
+    },
+    {
+      "node": "node3"
+    }
+  ]
+}

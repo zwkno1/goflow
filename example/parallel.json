@@ -1,0 +1,13 @@
+{
+  "parallel": [
+    {
+      "node": "node1-1"
+    },
+    {
+      "node": "node1-2"
+    },
+    {
+      "node": "node1-3"
+    }
+  ]
+}
