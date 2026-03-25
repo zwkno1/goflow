@@ -1,9 +1,8 @@
 package goflow
 
 import (
+	"errors"
 	"sync"
-
-	"github.com/pkg/errors"
 )
 
 type Node[Context any] interface {
